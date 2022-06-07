@@ -12,7 +12,7 @@
     </include>
   </coverage>
   <testsuites>
-    <testsuite name="Roomba Test">
+    <testsuite name="Archivos de configuración">
       <directory>tests</directory>
     </testsuite>
   </testsuites>
